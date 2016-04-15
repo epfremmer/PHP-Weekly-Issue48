@@ -1,0 +1,28 @@
+{
+    "name": "epfremme/issue_48",
+    "type": "Challenge",
+    "description": "Challenge 048: Self-descriptive Number",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "epfremme",
+            "email": "epfremme@nerdery.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PHPWeekly\\Issue48\\": "src/",
+            "PHPWeekly\\Issue48\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "satooshi/php-coveralls": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
