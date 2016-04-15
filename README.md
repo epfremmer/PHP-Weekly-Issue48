@@ -1,4 +1,4 @@
-# Challenge 042: Conway’s Game of Life
+# Challenge 048: Self-descriptive Number
 
 ## Install
 
